@@ -4,7 +4,7 @@ This dynamic web application, built using React, offers users a seamless experie
 
 ## Key Features
 - **Dynamic React Components:** The application is built on React, utilizing dynamic components for a responsive and interactive user interface.
-- **API Data Fetching: Seamless integration with API to fetch the latest data on top courses, ensuring up-to-date content.**
+- **API Data Fetching:** Seamless integration with API to fetch the latest data on top courses, ensuring up-to-date content.
 - **Like and Dislike Functionalities:** Users can express their preferences by liking or disliking courses, contributing to a personalized experience.
 - **Toast Notifications:** Toast notifications are implemented for warnings, enhancing user awareness and interaction feedback.
 - **Category Filters:** Courses are intelligently organized and easily navigable through category filters, facilitating efficient content discovery.
